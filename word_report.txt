@@ -1,0 +1,9 @@
+Words: 9
+Unique: 7
+and 2
+data 1
+easy 1
+everything 1
+fun 1
+is 2
+its 1
